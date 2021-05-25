@@ -32,5 +32,5 @@ def fizzbuzz(num)
     if (num%5==0)
         return "buzz"
     end
-    return num.to_s
+    return num
 end
