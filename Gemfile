@@ -4,8 +4,6 @@ gem 'rspec'
 gem 'sinatra'
 
 
-
-
 gem 'simplecov', '~> 0.18.5' #coverage report
 gem 'simplecov-console', '~> 0.7.2' #coverage console report
 gem 'cucumber', '~> 3.1', '>= 3.1.2' # aceptance testting
